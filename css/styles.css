@@ -1,0 +1,13 @@
+body {
+  background-color: #0FF0AB;
+  text-align: center;
+}
+
+
+li {
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style-position: inside;
+}

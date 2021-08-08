@@ -1,13 +1,28 @@
 body {
-  background-color: #0FF0AB;
+  background-color: hsl(163, 70%, 76%);
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
 
 li {
-  padding-bottom: 10px;
+  padding-bottom: 15px;
 }
 
 ul {
   list-style-position: inside;
+  display: inline-block;
+  text-align: left;
+  font-size: 1.5rem;
+}
+
+.bold {
+  font-weight: bold;
 }
